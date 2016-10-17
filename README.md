@@ -1,2 +1,2 @@
 # SnowplowFunnelVisualization
-Propuesta de Visual Analytics para los datos generados por SnowPlow, con el fin de potenciar la analítica de tráfico y funnel de ventas de sitios web.
+Visual Analytics proposal in order to represent the Snowplow generated data, to potenciate the analysis of web traffic and sell funnel behavior.
